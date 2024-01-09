@@ -1,0 +1,49 @@
+#body{
+    background: linear-gradient(rgb(255, 208, 0), red )
+}
+header{
+    height: 40px;
+    background-color: rgb(113, 0, 0);
+    font-size: 20px;
+    border-radius: 20px;
+}
+.material-symbols-outlined:hover{
+    cursor: pointer;
+    color: rgb(63, 37, 37);
+}
+img{
+    height: 700px;
+    width: 800px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.material-symbols-outlined{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#nav{
+    background: linear-gradient(red, rgb(185, 255, 185))
+    
+}
+.divi{
+    float: left;
+}
+#divv{
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 25px;
+    background-color: white;
+    height: 700px;
+    margin-top: 10px;
+    margin-left: 0;
+    width: 773px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+input{
+    width: 500px;
+    border-radius: 20px;
+    
+}
